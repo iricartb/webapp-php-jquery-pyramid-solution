@@ -1,0 +1,1 @@
+function jquery_animation_margin(elements,margin,duration){$(elements).animate({'marginTop':margin+'px'},duration);}
