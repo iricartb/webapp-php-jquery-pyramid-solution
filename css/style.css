@@ -37,7 +37,7 @@ nav p:hover{background-color:#0d9ce0;-moz-border-radius:5px;-webkit-border-radiu
 h2{font-family:Arial;font-size:19px;border-bottom:1px #000 dashed;margin-top:35px;margin-bottom:20px;color:#400000;}
 article{width:280px;text-align:justify;float:left;margin-right:36px;}
 #encard article img{margin-bottom:15px;}
-#encard article p{line-height:17px;margin-bottom:20px;}
+#encard article p{line-height:15px;margin-bottom:20px;}
 #encard article a{color:#fff;letter-spacing:0.01em;text-decoration:none;background-color:#0d9ce0;padding:5px 10px 5px 10px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
 #encard article a:hover{background-color:#0c88c2;box-shadow:0 0 1px #666;}
 #special{width:960px;height:50px;margin-left:auto;margin-right:auto;padding-left:40px;color:#fff;background-color:#0d9ce0;text-shadow:1px 1px 1px #045ea9;font-size:12px;}
