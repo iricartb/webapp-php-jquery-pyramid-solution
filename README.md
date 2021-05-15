@@ -1,4 +1,4 @@
-
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQFG9uqyRfdc7Q/article-cover_image-shrink_720_1280/0/1614475307891?e=1626307200&v=beta&t=02NUX2W9xEay1GW-UmFbdK7tcy97wSy3szncDwCl-PE" width="100%" />
 
 <h1>The construction of the Great Pyramid</h1>
 
